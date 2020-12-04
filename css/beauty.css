@@ -1,0 +1,13 @@
+#writeup{
+	font-size:35px;
+}
+body{
+	background-image: url("../images/header.jpg");
+	background-repeat: no-repeat;
+	background-position: fixed;
+	background-size: cover;
+	height: 100%;
+}
+/*.rounded-button{
+	border-radius: 25px;
+}*/
